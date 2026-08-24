@@ -1,5 +1,3 @@
-</> **Markdown**
-
 # Superstore Sales & Profitability Analysis
 
 ## Project Overview

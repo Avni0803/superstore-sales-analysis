@@ -117,8 +117,80 @@ those sales.
 
 ### Regional Performance
 
-The West region had the highest overall profit margin at 14.98%,
-while Central had the lowest at 7.92%.
+The West region had the highest overall profit margin at **14.98%**,
+while Central had the lowest at **7.92%**.
 
-Furniture in the Central region had a negative profit margin of -1.70%
-and an average discount of approximately 29.74%.
+Furniture in the Central region had a negative profit margin of **-1.70%**
+and an average discount of approximately **29.74%**.
+
+This made Central Furniture an important area for further investigation,
+as relatively high discounting was accompanied by negative profitability.
+
+### Time-Series Performance
+
+The overall business shows a positive growth trend over the period
+analysed.
+
+Sales increased from approximately **$494.0K in 2023** to
+**$745.6K in 2026**.
+
+Profit also increased from approximately **$51.7K in 2023** to
+**$95.9K in 2026**, while the number of orders increased from
+**995 to 1,723**.
+
+Although sales declined slightly in 2024, profit still increased.
+From 2025 onwards, both sales and profit increased substantially,
+with 2026 recording the highest values for both.
+
+## Business Recommendations
+
+Based on the patterns found in the analysis, I would suggest focusing
+on the following areas:
+
+1. **Review high discounts in Furniture**, especially where they are
+   resulting in negative profit margins.
+
+2. **Investigate Tables and Bookcases** at the product level to
+   identify products that consistently generate losses.
+
+3. **Continue focusing on Technology and Office Supplies**, as both
+   categories show stronger profitability.
+
+4. **Investigate Furniture performance in the Central region** to
+   understand why relatively high discounts are still accompanied by
+   negative profitability.
+
+5. **Look at both sales and profit when evaluating performance**, since
+   high sales do not necessarily mean high profitability.
+
+## Overall Conclusion
+
+The analysis shows that the business is growing, with sales, orders and
+profit increasing over time.
+
+At the same time, performance varies considerably across categories,
+sub-categories and regions. **Furniture, particularly Tables and
+Bookcases, stands out as the main area requiring attention.**
+
+The discount analysis also suggests that controlling discounts and
+looking more closely at product-level profitability could help improve
+profits while maintaining the overall growth of the business.
+
+## Project Structure
+
+```text
+Superstore-Sales-Analysis/
+│
+├── data/
+│   └── superstore.xls
+│
+├── Superstore_Sales_Analysis.ipynb
+│
+└── README.md
+```
+
+## Author
+
+**Avni**
+
+Data Analytics Portfolio Project
